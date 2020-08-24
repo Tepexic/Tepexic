@@ -1,10 +1,13 @@
 ### ¡Hola!👋 I'm Jesús Velázquez
-###### *Electrical engineer and software developer*
+###### *Electrical Engineer | Software Developer | Homebrewer*
+:round_pushpin: Mexico (UTC-5)
 
-I'm based in Mexico (UTC-5). When I'm away from keyboard, I like to cook, play football, brew something (mead, beer, coffee) or get some home improvement done. I'm into Sci-Fi and fantasy novels, movies, videogames and TV shows. [Here's a PDF version of my CV (92 KB)](https://tepexic.com/CV_JesusVelazquez.pdf)
+I've developed applications for the past 3+ years, focused on optimizing and improving existing processes. My tech stack is not written on stone, I believe on choosing the right tool for the job. So far, I've used javascript (Node, Express, Vue, React, Electron), HTML, CSS, Python and Matlab.
 
-* Frontend: HTML, CSS, Vanilla JavaScript, Vue, React, Tailwind, Bootstrap
-* Backend: Python, NodeJS
+When I'm away from keyboard, I like to cook, play football, brew something (mead, beer, coffee) or get some home improvement done. I'm into Sci-Fi and fantasy novels, movies, videogames and TV shows. [Here's a PDF version of my CV (92 KB)](https://tepexic.com/CV_JesusVelazquez.pdf)
+
+* Frontend: HTML, CSS, JavaScript, Vue, React, Tailwind, Bootstrap
+* Backend: Python, ExpressJS
 * Desktop: Matlab, Electron
 
 ### You can also find me on
@@ -15,7 +18,6 @@ I'm based in Mexico (UTC-5). When I'm away from keyboard, I like to cook, play f
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tepexic&show_icons=true)
 
-
-- 🔭 Currently working on Desktop applications using electron, Vue (Vuex, Router) and NodeJS
-- 🌱 Currently learning how to test Vue apps
-- 😄 Pronouns: he/him
+- :wrench: Working on Desktop applications using electron, Vue (Vuex, Router) and NodeJS
+- :pencil: Learning how to test Vue apps
+- :relaxed: Pronouns: he/him
