@@ -17,8 +17,8 @@ When I'm away from keyboard, I like to cook, play football, brew something (mead
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tepexic.com/)  
 
 ### 📙 Blog Posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST::START -->
+<!-- BLOG-POST-LIST::END -->
 
 ### My GitHub stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tepexic&layout=compact" alt="tepexic" /></p>
