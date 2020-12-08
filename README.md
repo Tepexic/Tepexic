@@ -7,7 +7,7 @@ I've developed applications for the past 3+ years, focused on optimizing and imp
 
 When I'm away from keyboard, I like to cook, play football, brew something (mead, beer, coffee) or get some home improvement done. I'm into Sci-Fi and fantasy novels, movies, videogames and TV shows. [Here's a PDF version of my CV (92 KB)](https://tepexic.com/CV_JesusVelazquez.pdf)
 
-- :wrench: Working on Desktop applications using electron, Vue (Vuex, Router) and NodeJS
+- :wrench: Front end development with
 - :pencil: Learning TS and Vue 3
 - :relaxed: Pronouns: he/him
 
@@ -17,8 +17,8 @@ When I'm away from keyboard, I like to cook, play football, brew something (mead
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tepexic.com/)  
 
 ### 📙 Blog Posts
-<!-- BLOG-POST-LIST::START -->
-<!-- BLOG-POST-LIST::END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### My GitHub stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tepexic&layout=compact" alt="tepexic" /></p>
