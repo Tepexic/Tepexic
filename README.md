@@ -7,14 +7,14 @@ I've developed applications for the past 3+ years, focused on optimizing and imp
 
 When I'm away from keyboard, I like to cook, play football, brew something (mead, beer, coffee) or get some home improvement done. I'm into Sci-Fi and fantasy novels, movies, videogames and TV shows. [Here's a PDF version of my CV (92 KB)](https://tepexic.com/CV_JesusVelazquez.pdf)
 
-- :wrench: Front end development with
+- :wrench: Front end development with Vue
 - :pencil: Learning TS and Vue 3
 - :relaxed: Pronouns: he/him
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jesusavelazquez)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tepexic)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tepexic.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev.to/tepexic)  
 
 ### 📙 Blog Posts
 <!-- BLOG-POST-LIST:START -->
