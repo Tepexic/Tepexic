@@ -11,8 +11,8 @@ I've developed applications for the past 3+ years, focused on optimizing and imp
 
 When I'm away from keyboard, I like to cook, play football, brew something (mead, beer, coffee) or get some home improvement done. I'm into Sci-Fi and fantasy novels, movies, videogames and TV shows. [Here's a PDF version of my CV (92 KB)](https://tepexic.com/CV_JesusVelazquez.pdf)
 
-- :wrench: Front end development with Vue
-- :pencil: Learning TS and Vue 3
+- :wrench: Working: on front end development with Vue
+- :pencil: Learning: web3.js and Solidity
 - :relaxed: Pronouns: he/him
 
 ### You can also find me on
