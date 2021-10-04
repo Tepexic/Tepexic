@@ -12,7 +12,7 @@ I've developed applications for the past 3+ years, focused on optimizing and imp
 When I'm away from keyboard, I like to cook, play football, brew something (mead, beer, coffee) or get some home improvement done. I'm into Sci-Fi and fantasy novels, movies, videogames and TV shows. [Here's a PDF version of my CV (92 KB)](https://tepexic.com/CV_JesusVelazquez.pdf)
 
 - :wrench: Working: on front end development with Vue
-- :pencil: Learning: web3.js and Solidity
+- :pencil: Learning: Web3 and Solidity
 - :relaxed: Pronouns: he/him
 
 ### You can also find me on
@@ -24,6 +24,7 @@ When I'm away from keyboard, I like to cook, play football, brew something (mead
 ### 📙 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [My first coding challenge while job hunting](https://dev.to/tepexic/my-first-coding-challenge-while-job-hunting-54dj)
 - [Upload and preview a video using vanilla JavaScript](https://dev.to/tepexic/upload-and-preview-a-video-using-vanilla-javascript-37k2)
 <!-- BLOG-POST-LIST:END -->
