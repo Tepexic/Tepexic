@@ -2,7 +2,7 @@
 
 ### I'm Jesús Velázquez (he/him)
 
-###### _Electrical/Software ~~Janitor~~ Engineer | Homebrewer_
+###### _Software ~~Janitor~~ Engineer | Homebrewer_
 
 :round_pushpin: Mexico (UTC-5)
 
