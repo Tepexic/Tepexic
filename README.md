@@ -9,12 +9,6 @@
   - :octocat: [github.com/Tepexic/Tesis-UNAM](https://github.com/Tepexic/Tesis-UNAM)
   - 📦 LaTeX
  
-- #### Clip Studio
-  - A free tool to edit, compress and convert videos online, completely run in the browser, with no backend. Only a precompiled FFMPEG  javascript version. 
-  - 🔗 [clipstud.io](https://clipstud.io/)
-  - :octocat: [github.com/Tepexic/ClipStudio](https://github.com/Tepexic/ClipStudio)
-  - 📦 React.js, Typescript, TailwindCSS, i18, Vite
- 
 - #### Consulta Popular
   - A decentralized full-stack application to mimic Mexico’s referendum on presidential mandate. Smart contract deployed in the Rinkeby network.
   - [consulta-popular.netlify.app](https://consulta-popular.netlify.app/)
